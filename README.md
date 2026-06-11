@@ -4,7 +4,6 @@
 
 [![Discord.js](https://img.shields.io/badge/discord.js-v14-blue?style=for-the-badge&logo=discord)](https://discord.js.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-ISC-purple?style=for-the-badge)](LICENSE)
 
 ---
 
