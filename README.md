@@ -4,7 +4,6 @@
 
 [![Discord.js](https://img.shields.io/badge/discord.js-v14-blue?style=for-the-badge&logo=discord)](https://discord.js.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-ISC-purple?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -42,19 +41,19 @@ Buttons update live and disable automatically when nothing is playing.
 ## 📝 Commands
 
 ```
-!play <query>              Play a YouTube URL, search term, or saved playlist
-!playnext <query>          Add song to play immediately after current
-!skip                      Skip the currently playing song
-!prev / !previous          Go back to the last played song
-!stop                      Stop playback and leave the channel
-!queue / !q                Show the full current queue
-!shuffle                   Randomly shuffle the queue (keeps current song)
-!loop [off/single/queue]   Set or cycle through loop modes
-!nowplaying / !np          Show the now-playing card with all controls
-!clear                     Clear the queue without stopping current song
-!remove <#>                Remove a specific song from queue by position
-!lyrics [query]            Get Genius song info for current or searched song
-!playlist <sub>            Manage saved playlists (create/add/list/show/delete/remove)
+/play <query>              Play a YouTube URL, search term, or saved playlist
+/playnext <query>          Add song to play immediately after current
+/skip                      Skip the currently playing song
+/prev or /previous          Go back to the last played song
+/stop                      Stop playback and leave the channel
+/queue or /q                Show the full current queue
+/shuffle                   Randomly shuffle the queue (keeps current song)
+/loop [off/single/queue]   Set or cycle through loop modes
+/nowplaying or /np          Show the now-playing card with all controls
+/clear                     Clear the queue without stopping current song
+/remove <#>                Remove a specific song from queue by position
+/lyrics [query]            Get Genius song info for current or searched song
+/playlist <sub>            Manage saved playlists (create/add/list/show/delete/remove)
 ```
 
 ---
@@ -120,14 +119,16 @@ npm start
 
 ### Start playing music:
 1. Join a voice channel
-2. Type `!play <song name>` to start playing music
-3. Use the buttons or commands to control playback
+2. Type `/help ` to access all command
+3. Type `/play <song name>` to start playing music
+4. Use the buttons or commands to control playback
 
 ---
 
 ## 📧 Support
 
 For issues, feature requests, or questions, feel free to open an issue on GitHub!
+Email: faridmuham9@gmail.com
 
 ---
 
