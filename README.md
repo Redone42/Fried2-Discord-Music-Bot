@@ -97,7 +97,6 @@ npm install
 3. Create a `.env` file in the root directory:
 ```
 DISCORD_TOKEN=your_bot_token_here
-GUILD_ID=your_guild_id_here
 CLIENT_ID=your_client_id_here
 GENIUS_TOKEN=your_genius_token_here
 ```
@@ -116,10 +115,13 @@ npm start
 
 ## 🚀 Quick Start
 
-1. Invite the bot to your Discord server
-2. Join a voice channel
-3. Type `!play <song name>` to start playing music
-4. Use the buttons or commands to control playback
+### Add the bot to your server:
+[![Invite Fried²](https://img.shields.io/badge/Invite_Bot-Click_Here-7289DA?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1412780874474197102&scope=bot+applications.commands&permissions=2150647808)
+
+### Start playing music:
+1. Join a voice channel
+2. Type `!play <song name>` to start playing music
+3. Use the buttons or commands to control playback
 
 ---
 
